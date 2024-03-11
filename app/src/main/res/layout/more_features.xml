@@ -67,16 +67,6 @@
             app:iconTint="@color/cool_pink"
             android:textColor="@color/black"/>
 
-        <com.google.android.material.button.MaterialButton
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            app:icon="@drawable/ic_laptop"
-            android:text="@string/Desktop"
-            app:iconGravity="top"
-            android:background="?attr/selectableItemBackground"
-            app:iconTint="@color/cool_blue"
-            android:textColor="@color/black"/>
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/fullscreenBtn"
